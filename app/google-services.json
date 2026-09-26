@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494901173654",
+    "project_id": "rfth-pro",
+    "storage_bucket": "rfth-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494901173654:android:bfa9a4938aa5225960d1b7",
+        "android_client_info": {
+          "package_name": "com.ryalmanagement.facilityos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494901173654-3qojgqncf2e51plrova5ameao1f1olb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX5KxCGkWtX4O_RJpc-SMAYe3AGfZsC30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494901173654-3qojgqncf2e51plrova5ameao1f1olb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
